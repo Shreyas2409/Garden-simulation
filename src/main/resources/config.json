@@ -1,0 +1,31 @@
+{
+  "plants": [
+    {
+      "name": "Rose",
+      "waterRequirement": 20,
+      "temperature": 22,
+      "parasites": [
+        "Aphids",
+        "Spider mites"
+      ]
+    },
+    {
+      "name": "Tulip",
+      "waterRequirement": 15,
+      "temperature": 18,
+      "parasites": [
+        "Nematodes",
+        "Slugs"
+      ]
+    },
+    {
+      "name": "Sunflower",
+      "waterRequirement": 25,
+      "temperature": 24,
+      "parasites": [
+        "Weevils",
+        "Leafhoppers"
+      ]
+    }
+  ]
+}
