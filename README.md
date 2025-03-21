@@ -16,16 +16,4 @@ GreenSentinel is an automated garden simulation system designed to streamline ga
 - **Log4j:** Logging framework to monitor system events and debug issues.
 - **Object-Oriented Design:** Ensures scalability and maintainability of the code.
 
-## Getting Started
 
-### Prerequisites
-- **Java JDK 8** (or higher)
-- **Maven** (or another preferred build tool)
-- **IDE** (such as IntelliJ IDEA or Eclipse, optional)
-
-### Installation
-
-1. **Clone the Repository:**  
-   First, download a copy of the project to your local machine. Open your terminal and run:
-   ```bash
-   git clone https://github.com/Shreyas2409/Garden-simulation.git
